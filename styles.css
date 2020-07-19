@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Canela";
+  src: url("https://assets.codepen.io/192892/Canela-Light.otf") format("otf"),
+}
+.video_class {
+  transform: rotate(0deg);
+}
+
+.label_class {
+  font-family: "Canela";
+  font-size: 2rem;
+}
+
+.confidence_class {
+  font-family: "Canela";
+  font-weight:100;
+  line-height:2rem;
+}
