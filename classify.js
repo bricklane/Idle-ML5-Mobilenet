@@ -3,7 +3,7 @@ let vid;
 
 function preload() {
   classifier = ml5.imageClassifier('MobileNet')
-  vid = createVideo("Clouds.mp4");
+  vid = createVideo("clouds.mp4");
   vid.addClass('video_class');
   vid.loop()
 }
