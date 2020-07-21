@@ -29,9 +29,9 @@ function classifyVideo() {
   classifier.classify(vid, gotResult);
 }
 
-function draw() {
-    console.log(frameCount); 
-}
+//function draw() {
+//    console.log(frameCount); 
+//}
 
 function gotResult(error, results) {
   // Display error in the console
