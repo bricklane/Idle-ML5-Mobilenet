@@ -2,8 +2,21 @@
   font-family: "Canela";
   src: url("https://assets.codepen.io/192892/Canela-Light.otf") format("otf"),
 }
+.bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
 .video_class {
-  transform: rotate(0deg);
+  height: 32rem;
+  width: 18rem;
+  border: 10px solid white;
+  border-radius:5px;
+  background: #e8e8e8;
+  box-shadow:  20px 20px 60px #c5c5c5, 
+             -20px -20px 60px #ffffff;
 }
 
 .label_class {
@@ -15,4 +28,10 @@
   font-family: "Canela";
   font-weight:100;
   line-height:2rem;
+  text-align: center;
+}
+
+.caption {
+  position:  absolute;
+  bottom: 80px;
 }
