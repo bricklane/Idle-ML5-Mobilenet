@@ -22,6 +22,7 @@ function setup() {
   //frameRate(1);
   classifyVideo();
   image(vid, 0, 0);
+  vid.play();
 }
 
 function classifyVideo() {
