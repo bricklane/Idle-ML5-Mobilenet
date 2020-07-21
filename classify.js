@@ -47,10 +47,7 @@ function gotResult(error, results) {
 }
 
 
-// ref: https://creative-coding.decontextualize.com/video/
-// ref2: https://codepen.io/bricklane/pen/4a644d6ba54e9fd7d4c767c9489e9642
+//ref: https://creative-coding.decontextualize.com/video/
+//ref 2: https://codepen.io/bricklane/pen/4a644d6ba54e9fd7d4c767c9489e9642
 //ref 3 https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video
-
-
-//Resources:
-// CSS Shadow:  https://neumorphism.io/#e8e8e8
+//ref 4 CSS Shadow:  https://neumorphism.io/#e8e8e8
