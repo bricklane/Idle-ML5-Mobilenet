@@ -1,5 +1,5 @@
 # Strato-ML5-Mobilenet
-MobileNet Image Classification Cloud Gazing
+MobileNet image classification cloud-gazing
 
 Strato/Cloud Gazing is a simple image classification model looking at a video playing in the browser. The current example is a youtube video of clouds moving. The model checks the canvas and returns the image it thinks it most closely resembles, and the percentage similarity.
 
