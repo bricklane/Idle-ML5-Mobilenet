@@ -3,7 +3,7 @@ let vid;
 
 function preload() {
   classifier = ml5.imageClassifier('MobileNet')
-  vid = createVideo("https://github.com/bricklane/Strato-ML5-Mobilenet/blob/master/Clouds3.mp4");
+  vid = createVideo("Clouds3.mp4");
   vid.addClass('video_class');
   vid.loop()
 }
