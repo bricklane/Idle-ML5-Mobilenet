@@ -25,7 +25,7 @@ function classifyVideo() {
 
 function vidLoad() {
   vid.loop();
-  vid.volume(0);
+  //vid.volume(0);
 }
 
 function draw() {
